@@ -1,5 +1,5 @@
 # DJ-Events-Apenas-Eventos-no-scroll-PT-BR
-Exibir apenas eventos no modulo calendario scroll
+Exibir apenas eventos no modulo calendario scroll do componente DJ-Events
 
 
 Modificação para exibirapenas eventos no scroll.
